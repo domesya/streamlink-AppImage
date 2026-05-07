@@ -1,19 +1,19 @@
 <div align="center">
 
-# streamlink-AppImage 🐧
+# Streamlink-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/streamlink-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/streamlink-AppImage/releases/latest)
-[![CI Build Status](https://github.com/pkgforge-dev/streamlink-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/streamlink-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/streamlink-AppImage)](https://github.com/pkgforge-dev/streamlink-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Streamlink-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Streamlink-AppImage/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/Streamlink-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Streamlink-AppImage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Streamlink-AppImage)](https://github.com/pkgforge-dev/Streamlink-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/streamlink/streamlink/master/icon.svg" width="128" />
+  <img src="https://raw.githubusercontent.com/Streamlink/Streamlink/master/icon.svg" width="128" />
 </p>
 
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/streamlink-AppImage/releases/latest) | [Click here](https://streamlink.github.io) |
+| [Click here](https://github.com/pkgforge-dev/Streamlink-AppImage/releases/latest) | [Click here](https://Streamlink.github.io) |
 
 </div>
 
